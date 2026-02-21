@@ -1,4 +1,4 @@
-# ZeroLag — PC Performance Diagnostic for Gamers (Windows)
+# ZeroLag — PC Performance Diagnostic(Windows)
 
 ZeroLag is a **local** (no-telemetry) diagnostics tool that scans a Windows PC, detects common performance killers,
 and generates a clean report (**Markdown + PDF**) with a **Performance Score**.
